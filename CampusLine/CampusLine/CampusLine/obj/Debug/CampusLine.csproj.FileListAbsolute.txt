@@ -1,0 +1,15 @@
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\CampusLine.dll
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\CampusLine.pdb
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\obj\Debug\CampusLine.csprojResolveAssemblyReference.cache
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\obj\Debug\CampusLine.MainPage.xaml.g.cs
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\obj\Debug\CampusLine.App.xaml.g.cs
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\obj\Debug\CampusLine.dll
+C:\Users\zenga\Documents\Projects\MVC\CampusLine\CampusLine\CampusLine\obj\Debug\CampusLine.pdb
